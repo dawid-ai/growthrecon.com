@@ -1,0 +1,45 @@
+# Growth Recon
+> Diagnostic-first growth operating system by Dawid Jozwiak
+
+## About
+GrowthRecon is a five-stage growth methodology called RECON: Research, Expose, Convert, Optimize, Navigate. It fixes foundations before tactics, measures impact not activity, and builds self-running systems - not retainer dependencies. Created by Dawid Jozwiak, a growth strategist with 20+ years across PPC, SEO, gambling, crypto, and SaaS.
+
+## The RECON Framework
+- Research: Map the business through the customer's eyes - ICP, language, pricing, data, adversarial assessment
+- Expose: Strip away vanity metrics, find the ONE objective, audit spend vs. output, kill sacred cows
+- Convert: Fix the funnel foundation before spending on traffic - tracking, journey mapping, retention, LTV
+- Optimize: Build trackable processes, testing discipline, and reapply the framework as a loop
+- Navigate: Drive adoption through internal resistance, train teams, hand over a self-running system
+
+## Author
+Dawid Jozwiak - Creator of Growth Recon
+Dawid Jozwiak created the RECON framework after two decades of watching
+companies pour money into marketing tactics built on broken foundations.
+Growth Recon is a five-stage growth strategy framework that starts with
+a diagnostic marketing audit - not more ads. Each stage measures marketing
+effectiveness at the source: Research maps who actually buys, Expose kills
+wasted spend, Convert fixes the funnel, Optimize builds the system,
+Navigate makes it stick. The result is a growth engine that compounds
+instead of costs more every quarter.
+Entity Home: https://growthrecon.com/about
+LinkedIn: https://www.linkedin.com/in/dawidjozwiak/
+
+## Key Pages
+- Home: https://growthrecon.com/
+- Framework Overview: https://growthrecon.com/framework
+- Research (Stage 1): https://growthrecon.com/framework/research
+- Expose (Stage 2): https://growthrecon.com/framework/expose
+- Convert (Stage 3): https://growthrecon.com/framework/convert
+- Optimize (Stage 4): https://growthrecon.com/framework/optimize
+- Navigate (Stage 5): https://growthrecon.com/framework/navigate
+- About: https://growthrecon.com/about
+- Intel: https://growthrecon.com/intel/
+
+## Topics
+- Growth strategy
+- Adversarial marketing methodology
+- Competitive intelligence
+- Funnel optimization
+- Accountability systems
+- Change management
+- AI-driven growth marketing
